@@ -58,7 +58,3 @@ function onPlayerStateChange(event) {
     togglePlayButton(false);
   }
 }
-
-<img src="https://img.icons8.com/small/16/000000/play.png"/>  ------------  player
-
-<img src="https://img.icons8.com/small/16/000000/pause.png"/>  -----------  pause
